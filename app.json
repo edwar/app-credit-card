@@ -1,0 +1,32 @@
+{
+    "expo": {
+      "name": "SaludTools",
+      "slug": "SaludTools",
+      "privacy": "public",
+      "sdkVersion": "31.0.0",
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "version": "1.0.0",
+      "orientation": "portrait",
+      "icon": "./assets/icon.png",
+      "splash": {
+        "backgroundColor": "#1374AC"
+      },
+      "updates": {
+        "fallbackToCacheTimeout": 0
+      },
+      "assetBundlePatterns": [
+        "**/*"
+      ],
+      "ios": {
+        "supportsTablet": true,
+        "bundleIdentifier": "com.carecloud.saludtool"
+      },
+      "android": {
+        "package": "com.carecloud.saludtool"
+      },
+      "description": ""
+    }
+  }
